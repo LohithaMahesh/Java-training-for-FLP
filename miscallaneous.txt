@@ -1,0 +1,7 @@
+##Please add this line in persistance.xml
+
+<property name="hibernate.hbm2ddl.auto" value="create"/>
+
+Spring cloud projects link
+
+https://github.com/dustinschultz?tab=repositories
