@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exhibit>
+ <input-file name="a.csv.txt" time="10:10:12"></input-file>
+ <input-file name="b.csv.txt" time="12:10:12"></input-file>
+</exhibit>
+
+<!-- filestore>
+<file sno="1">
+   <firstname>aaaa</firstname>
+   <lastname>aaa</lastname>
+   <dob>23-09-1965</dob>
+   <dod>25-01-2000</dod>
+   <loanAmount>12000</loanAmount>
+  </file>
+  <file sno="2"> 
+   <firstname>aa1aa</firstname>
+   <lastname>a1aa</lastname>
+   <dob>20-09-1965</dob>
+   <dod>22-01-2000</dod>
+   <loanAmount>11000</loanAmount>
+   </file>
+</filestore-->
